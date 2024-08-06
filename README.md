@@ -25,4 +25,5 @@ The Racing FPV Frame is an excellent choice for those seeking a balance between 
 ![Alt text](https://github.com/Trauma-d/Cube1/blob/main/Cube1_Gif1.gif)
 
 The assembly and disassembly of the arms is done by removing a single screw. Additionally, a zip tie can be used in the provided slots.
-<img src="https://github.com/Trauma-d/Cube1/blob/main/Cube1_Pic2.png" alt=50% >
+
+<img src="https://github.com/Trauma-d/Cube1/blob/main/Cube1_Pic3.png" alt=50% >

@@ -1,3 +1,5 @@
+![Alt text](https://github.com/Trauma-d/Cube1/blob/main/Cube1_Pic1.png)
+
 # Cube1
 FPV racing Open Source
 

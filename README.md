@@ -19,7 +19,7 @@ FPV racing Open Source
 
 ## Conclusion
 
-The Racing FPV Frame is an excellent choice for those seeking a balance between simplicity, cost-effectiveness, and performance. Its construction with only two repeated carbon fiber components offers a robust and lightweight option, perfect for FPV racing. Additionally, the open source design allows for great customization, enabling you to build it with your preferred carbon fiber. Try it to experience agile and competitive flight without breaking your budget.
+The Cube1 is an excellent choice for those seeking a balance between simplicity, cost-effectiveness, and performance. Its construction with only two repeated carbon fiber components offers a robust and lightweight option, perfect for FPV racing. Additionally, the open source design allows for great customization, enabling you to build it with your preferred carbon fiber. Try it to experience agile and competitive flight without breaking your budget.
 
 ## Prototype
 ![Alt text](https://github.com/Trauma-d/Cube1/blob/main/Cube1_Gif1.gif)
@@ -27,3 +27,11 @@ The Racing FPV Frame is an excellent choice for those seeking a balance between 
 The assembly and disassembly of the arms is done by removing a single screw. Additionally, a zip tie can be used in the provided slots.
 
 <img src="https://github.com/Trauma-d/Cube1/blob/main/Cube1_Pic3.png" alt=50% >
+
+### 08 11 2K24
+I created a pre-prototype with 30x30 electronics. I hadn't originally planned to make a version for this format, but since the market strongly supports electronics of this size at very attractive prices... why not?
+
+![Alt text](https://github.com/Trauma-d/Cube1/blob/main/Cube1_Pic4.jpg)
+
+
+![Alt text](https://github.com/Trauma-d/Cube1/blob/main/Cube1_Pic5.jpg)

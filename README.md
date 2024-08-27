@@ -32,3 +32,6 @@ The assembly and disassembly of the arms is done by removing a single screw. Add
 I created a pre-prototype with 30x30 electronics. I hadn't originally planned to make a version for this format, but since the market strongly supports electronics of this size at very attractive prices... why not?
 
 ![Alt text](https://github.com/Trauma-d/Cube1/blob/main/Cube1_Pic4.jpg)
+
+### 08 27 2K24
+I have uploaded the files for the 30x30 electronics and the related arms for the 51XX propellers

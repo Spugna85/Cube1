@@ -35,3 +35,6 @@ I created a pre-prototype with 30x30 electronics. I hadn't originally planned to
 
 ### 08 27 2K24
 I have uploaded the files for the 30x30 electronics and the related arms for the 51XX propellers
+
+### 09 06 2K24
+I have uploaded the files for the 20x20 electronics and the related arms for the 51XX propellers
